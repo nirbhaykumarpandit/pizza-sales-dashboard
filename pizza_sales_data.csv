@@ -1,0 +1,202 @@
+OrderID,CustomerName,PizzaType,Size,Quantity,UnitPrice,TotalPrice,OrderDate,PaymentMethod
+ORD0002,Amit,Veggie Supreme,Medium,1,263,263,27-07-2023 17:00,UPI
+ORD0011,Amit,Veggie Supreme,Large,1,463,463,19-05-2023 17:00,Card
+ORD0027,Amit,BBQ Chicken,Large,5,359,1795,11-10-2023 19:00,UPI
+ORD0057,Amit,BBQ Chicken,Medium,1,392,392,01-10-2023 12:00,Cash
+ORD0064,Amit,Cheese Burst,Medium,1,310,310,23-08-2023 18:00,Cash
+ORD0065,Amit,Paneer Tikka,Small,4,247,988,09-03-2023 22:00,UPI
+ORD0088,Amit,Cheese Burst,Medium,3,281,843,04-10-2023 16:00,Cash
+ORD0091,Amit,Paneer Tikka,Large,2,364,728,20-05-2023 20:00,UPI
+ORD0102,Amit,Veggie Supreme,Large,2,482,964,18-01-2023 19:00,Card
+ORD0109,Amit,BBQ Chicken,Medium,1,322,322,11-05-2023 15:00,Cash
+ORD0116,Amit,Margherita,Small,1,196,196,24-04-2023 18:00,Card
+ORD0130,Amit,Mexican Green Wave,Large,3,425,1275,27-10-2023 17:00,Cash
+ORD0137,Amit,Pepperoni,Medium,3,356,1068,30-09-2023 17:00,Card
+ORD0146,Amit,Margherita,Small,1,251,251,03-04-2023 10:00,UPI
+ORD0150,Amit,Pepperoni,Medium,4,397,1588,24-04-2023 14:00,Card
+ORD0153,Amit,Pepperoni,Small,1,176,176,07-07-2023 11:00,UPI
+ORD0157,Amit,Paneer Tikka,Small,3,236,708,26-07-2023 18:00,UPI
+ORD0159,Amit,Paneer Tikka,Large,3,443,1329,09-02-2023 17:00,Cash
+ORD0172,Amit,Pepperoni,Medium,4,302,1208,14-02-2023 15:00,Card
+ORD0177,Amit,Pepperoni,Small,3,150,450,18-04-2023 13:00,Cash
+ORD0183,Amit,Mexican Green Wave,Large,2,448,896,17-07-2023 19:00,UPI
+ORD0189,Amit,Paneer Tikka,Small,3,299,897,08-04-2023 15:00,Card
+ORD0001,Arjun,Pepperoni,Large,1,387,387,15-06-2023 13:00,Card
+ORD0013,Arjun,Paneer Tikka,Small,5,294,1470,18-01-2023 18:00,Card
+ORD0040,Arjun,Pepperoni,Medium,5,337,1685,15-10-2023 15:00,Cash
+ORD0047,Arjun,Cheese Burst,Small,5,296,1480,21-02-2023 20:00,Card
+ORD0054,Arjun,Paneer Tikka,Large,2,498,996,31-08-2023 13:00,Cash
+ORD0060,Arjun,Mexican Green Wave,Medium,5,330,1650,10-03-2023 11:00,Cash
+ORD0074,Arjun,Cheese Burst,Medium,5,351,1755,28-03-2023 15:00,Cash
+ORD0080,Arjun,Pepperoni,Large,5,454,2270,20-01-2023 19:00,UPI
+ORD0082,Arjun,Paneer Tikka,Small,4,250,1000,01-06-2023 16:00,UPI
+ORD0089,Arjun,Cheese Burst,Large,2,359,718,18-07-2023 18:00,Card
+ORD0093,Arjun,Margherita,Medium,4,278,1112,17-04-2023 22:00,UPI
+ORD0103,Arjun,Cheese Burst,Small,4,263,1052,30-03-2023 14:00,Card
+ORD0106,Arjun,Veggie Supreme,Small,4,185,740,07-08-2023 19:00,Card
+ORD0117,Arjun,BBQ Chicken,Small,5,295,1475,29-09-2023 17:00,UPI
+ORD0118,Arjun,Margherita,Medium,2,305,610,25-02-2023 12:00,Cash
+ORD0147,Arjun,Cheese Burst,Large,4,500,2000,26-01-2023 20:00,Card
+ORD0187,Arjun,BBQ Chicken,Large,3,419,1257,15-09-2023 19:00,Cash
+ORD0191,Arjun,BBQ Chicken,Small,5,274,1370,01-09-2023 17:00,Card
+ORD0192,Arjun,Pepperoni,Medium,5,273,1365,09-06-2023 17:00,UPI
+ORD0014,Kiran,Pepperoni,Medium,3,319,957,15-10-2023 18:00,UPI
+ORD0015,Kiran,Cheese Burst,Small,3,295,885,03-05-2023 19:00,Card
+ORD0018,Kiran,Pepperoni,Small,2,182,364,08-10-2023 19:00,Cash
+ORD0024,Kiran,Paneer Tikka,Large,5,475,2375,13-04-2023 15:00,Card
+ORD0030,Kiran,Pepperoni,Medium,4,376,1504,01-10-2023 13:00,UPI
+ORD0051,Kiran,Mexican Green Wave,Small,2,201,402,05-07-2023 20:00,Cash
+ORD0058,Kiran,Margherita,Medium,5,390,1950,05-09-2023 13:00,Card
+ORD0071,Kiran,Mexican Green Wave,Small,3,247,741,02-01-2023 16:00,UPI
+ORD0072,Kiran,Mexican Green Wave,Medium,5,339,1695,30-09-2023 15:00,Cash
+ORD0077,Kiran,Veggie Supreme,Large,1,401,401,14-06-2023 14:00,UPI
+ORD0090,Kiran,Margherita,Small,3,271,813,14-06-2023 13:00,UPI
+ORD0092,Kiran,Cheese Burst,Medium,5,304,1520,28-04-2023 19:00,Cash
+ORD0134,Kiran,BBQ Chicken,Large,2,431,862,02-07-2023 17:00,UPI
+ORD0158,Kiran,Paneer Tikka,Medium,1,307,307,28-01-2023 11:00,Cash
+ORD0160,Kiran,Mexican Green Wave,Small,2,243,486,25-02-2023 18:00,Cash
+ORD0003,Manish,Veggie Supreme,Small,5,230,1150,30-03-2023 20:00,Card
+ORD0020,Manish,BBQ Chicken,Large,5,480,2400,06-07-2023 17:00,Card
+ORD0025,Manish,Veggie Supreme,Medium,1,309,309,13-08-2023 22:00,Card
+ORD0032,Manish,Pepperoni,Medium,5,333,1665,08-08-2023 17:00,Cash
+ORD0059,Manish,Veggie Supreme,Large,4,453,1812,26-03-2023 18:00,Cash
+ORD0062,Manish,Paneer Tikka,Large,1,489,489,24-07-2023 14:00,UPI
+ORD0063,Manish,Cheese Burst,Medium,3,368,1104,09-02-2023 16:00,Cash
+ORD0073,Manish,Cheese Burst,Large,3,439,1317,19-06-2023 17:00,Cash
+ORD0081,Manish,Mexican Green Wave,Large,5,483,2415,10-10-2023 20:00,UPI
+ORD0086,Manish,Cheese Burst,Small,2,184,368,15-03-2023 10:00,Card
+ORD0094,Manish,Cheese Burst,Medium,3,338,1014,15-10-2023 18:00,UPI
+ORD0099,Manish,Veggie Supreme,Large,5,436,2180,20-01-2023 16:00,UPI
+ORD0100,Manish,Paneer Tikka,Small,3,205,615,13-08-2023 21:00,Cash
+ORD0123,Manish,Margherita,Small,3,247,741,24-01-2023 21:00,UPI
+ORD0124,Manish,Paneer Tikka,Medium,1,282,282,09-03-2023 13:00,UPI
+ORD0126,Manish,Veggie Supreme,Large,2,408,816,19-03-2023 18:00,Card
+ORD0129,Manish,BBQ Chicken,Large,2,429,858,15-04-2023 17:00,Cash
+ORD0133,Manish,Margherita,Large,5,472,2360,06-02-2023 10:00,Cash
+ORD0141,Manish,BBQ Chicken,Small,5,171,855,01-02-2023 15:00,UPI
+ORD0142,Manish,Paneer Tikka,Large,4,380,1520,15-08-2023 13:00,Cash
+ORD0143,Manish,BBQ Chicken,Small,1,249,249,03-01-2023 15:00,Cash
+ORD0168,Manish,Margherita,Large,4,491,1964,16-05-2023 18:00,UPI
+ORD0193,Manish,Cheese Burst,Small,5,227,1135,19-02-2023 10:00,Card
+ORD0007,Neha,Pepperoni,Small,3,191,573,12-09-2023 13:00,Cash
+ORD0028,Neha,Pepperoni,Medium,3,263,789,15-01-2023 17:00,Card
+ORD0095,Neha,Veggie Supreme,Medium,1,259,259,29-04-2023 19:00,UPI
+ORD0101,Neha,Mexican Green Wave,Small,1,235,235,04-01-2023 12:00,Card
+ORD0112,Neha,Paneer Tikka,Medium,1,279,279,03-03-2023 18:00,UPI
+ORD0121,Neha,BBQ Chicken,Small,5,281,1405,02-07-2023 18:00,UPI
+ORD0127,Neha,Pepperoni,Large,5,435,2175,20-02-2023 17:00,Card
+ORD0136,Neha,BBQ Chicken,Large,3,467,1401,26-03-2023 19:00,Card
+ORD0138,Neha,Cheese Burst,Medium,3,252,756,05-03-2023 15:00,Card
+ORD0139,Neha,Paneer Tikka,Small,2,164,328,03-10-2023 14:00,Card
+ORD0149,Neha,BBQ Chicken,Medium,1,386,386,18-08-2023 13:00,UPI
+ORD0164,Neha,Pepperoni,Small,2,289,578,05-09-2023 17:00,Cash
+ORD0175,Neha,Paneer Tikka,Medium,4,359,1436,18-09-2023 17:00,Cash
+ORD0186,Neha,Mexican Green Wave,Small,4,299,1196,22-01-2023 15:00,Cash
+ORD0012,Pooja,Veggie Supreme,Medium,4,276,1104,26-07-2023 17:00,Cash
+ORD0017,Pooja,Pepperoni,Medium,1,378,378,18-10-2023 12:00,Card
+ORD0019,Pooja,Margherita,Medium,2,391,782,12-07-2023 21:00,Cash
+ORD0022,Pooja,Margherita,Small,5,155,775,08-01-2023 14:00,Cash
+ORD0029,Pooja,Veggie Supreme,Small,2,247,494,16-04-2023 11:00,Card
+ORD0034,Pooja,Veggie Supreme,Large,2,434,868,11-05-2023 11:00,UPI
+ORD0039,Pooja,Mexican Green Wave,Small,3,290,870,23-06-2023 13:00,Cash
+ORD0041,Pooja,Mexican Green Wave,Large,1,372,372,17-02-2023 20:00,Cash
+ORD0046,Pooja,Veggie Supreme,Medium,4,396,1584,16-09-2023 21:00,Card
+ORD0053,Pooja,Cheese Burst,Large,4,461,1844,28-10-2023 14:00,UPI
+ORD0083,Pooja,Paneer Tikka,Small,1,236,236,29-08-2023 17:00,UPI
+ORD0085,Pooja,Pepperoni,Small,2,242,484,12-04-2023 12:00,UPI
+ORD0105,Pooja,Pepperoni,Small,3,205,615,23-05-2023 21:00,UPI
+ORD0120,Pooja,Paneer Tikka,Medium,2,367,734,22-05-2023 13:00,Cash
+ORD0140,Pooja,Paneer Tikka,Medium,1,399,399,08-07-2023 22:00,UPI
+ORD0148,Pooja,Margherita,Medium,4,363,1452,17-07-2023 17:00,Cash
+ORD0156,Pooja,Cheese Burst,Small,3,238,714,28-07-2023 17:00,UPI
+ORD0162,Pooja,Mexican Green Wave,Small,4,179,716,09-05-2023 10:00,Card
+ORD0173,Pooja,Cheese Burst,Large,2,452,904,12-09-2023 21:00,Cash
+ORD0179,Pooja,BBQ Chicken,Small,3,210,630,02-10-2023 21:00,Cash
+ORD0182,Pooja,BBQ Chicken,Large,4,385,1540,26-08-2023 19:00,Card
+ORD0184,Pooja,Veggie Supreme,Medium,5,300,1500,04-10-2023 18:00,Cash
+ORD0195,Pooja,Cheese Burst,Medium,5,286,1430,16-09-2023 11:00,Cash
+ORD0008,Priya,Veggie Supreme,Medium,4,293,1172,11-07-2023 11:00,UPI
+ORD0023,Priya,Margherita,Large,4,395,1580,07-07-2023 21:00,UPI
+ORD0026,Priya,Mexican Green Wave,Medium,5,325,1625,10-09-2023 19:00,Cash
+ORD0031,Priya,Veggie Supreme,Medium,2,382,764,07-04-2023 15:00,Card
+ORD0035,Priya,Paneer Tikka,Medium,3,363,1089,12-06-2023 18:00,Card
+ORD0043,Priya,Pepperoni,Small,1,262,262,25-06-2023 22:00,Cash
+ORD0044,Priya,Cheese Burst,Small,4,179,716,14-03-2023 10:00,Card
+ORD0048,Priya,BBQ Chicken,Small,4,292,1168,08-06-2023 20:00,UPI
+ORD0061,Priya,Paneer Tikka,Large,2,438,876,06-04-2023 10:00,Cash
+ORD0079,Priya,Cheese Burst,Small,1,277,277,11-07-2023 12:00,UPI
+ORD0087,Priya,Paneer Tikka,Large,4,355,1420,12-06-2023 10:00,Cash
+ORD0097,Priya,Mexican Green Wave,Small,4,205,820,26-10-2023 21:00,UPI
+ORD0131,Priya,Cheese Burst,Small,4,214,856,09-01-2023 10:00,UPI
+ORD0169,Priya,Mexican Green Wave,Large,2,389,778,09-03-2023 20:00,Card
+ORD0170,Priya,Pepperoni,Small,2,240,480,04-08-2023 11:00,Card
+ORD0178,Priya,Pepperoni,Large,2,442,884,08-05-2023 16:00,UPI
+ORD0199,Priya,Paneer Tikka,Medium,1,342,342,08-10-2023 15:00,Card
+ORD0006,Rahul,Paneer Tikka,Small,4,279,1116,05-01-2023 15:00,UPI
+ORD0009,Rahul,BBQ Chicken,Large,5,353,1765,01-10-2023 10:00,Cash
+ORD0021,Rahul,Veggie Supreme,Medium,5,378,1890,13-07-2023 16:00,Cash
+ORD0036,Rahul,Paneer Tikka,Medium,5,365,1825,03-08-2023 22:00,UPI
+ORD0037,Rahul,Pepperoni,Large,1,443,443,20-05-2023 10:00,Card
+ORD0038,Rahul,Mexican Green Wave,Small,5,288,1440,21-05-2023 21:00,Cash
+ORD0045,Rahul,Paneer Tikka,Large,4,382,1528,20-05-2023 11:00,Cash
+ORD0050,Rahul,Veggie Supreme,Small,5,239,1195,26-05-2023 15:00,Cash
+ORD0055,Rahul,Cheese Burst,Small,4,259,1036,12-02-2023 13:00,UPI
+ORD0056,Rahul,Veggie Supreme,Large,3,475,1425,06-01-2023 16:00,Cash
+ORD0067,Rahul,Margherita,Large,3,493,1479,12-08-2023 20:00,UPI
+ORD0084,Rahul,Cheese Burst,Medium,2,349,698,29-04-2023 22:00,Card
+ORD0110,Rahul,BBQ Chicken,Medium,4,399,1596,17-09-2023 14:00,Cash
+ORD0115,Rahul,Margherita,Small,5,162,810,12-06-2023 13:00,Card
+ORD0122,Rahul,Cheese Burst,Small,5,228,1140,17-06-2023 19:00,Card
+ORD0154,Rahul,Paneer Tikka,Large,5,369,1845,18-09-2023 13:00,Cash
+ORD0167,Rahul,Mexican Green Wave,Medium,1,350,350,08-06-2023 17:00,Cash
+ORD0190,Rahul,BBQ Chicken,Small,3,204,612,16-07-2023 18:00,Cash
+ORD0196,Rahul,Paneer Tikka,Large,4,493,1972,29-01-2023 15:00,UPI
+ORD0197,Rahul,BBQ Chicken,Medium,5,251,1255,29-07-2023 18:00,Cash
+ORD0198,Rahul,Pepperoni,Medium,4,380,1520,19-07-2023 19:00,Card
+ORD0200,Rahul,Pepperoni,Small,2,253,506,04-02-2023 22:00,Card
+ORD0033,Ravi,Cheese Burst,Small,2,178,356,17-08-2023 11:00,UPI
+ORD0042,Ravi,Veggie Supreme,Small,1,245,245,24-08-2023 17:00,UPI
+ORD0049,Ravi,Cheese Burst,Medium,3,330,990,12-07-2023 13:00,Card
+ORD0066,Ravi,Mexican Green Wave,Small,5,210,1050,25-07-2023 20:00,UPI
+ORD0069,Ravi,Pepperoni,Medium,3,341,1023,18-02-2023 16:00,Cash
+ORD0070,Ravi,Margherita,Small,3,154,462,18-03-2023 16:00,UPI
+ORD0075,Ravi,BBQ Chicken,Medium,4,338,1352,18-03-2023 13:00,Cash
+ORD0096,Ravi,Paneer Tikka,Small,5,179,895,16-01-2023 11:00,UPI
+ORD0104,Ravi,BBQ Chicken,Large,4,466,1864,11-09-2023 11:00,UPI
+ORD0107,Ravi,Mexican Green Wave,Large,2,490,980,09-08-2023 18:00,Card
+ORD0111,Ravi,Veggie Supreme,Large,4,372,1488,04-08-2023 21:00,UPI
+ORD0119,Ravi,Margherita,Medium,4,270,1080,02-08-2023 12:00,UPI
+ORD0125,Ravi,Veggie Supreme,Large,3,431,1293,13-10-2023 22:00,Cash
+ORD0128,Ravi,Paneer Tikka,Large,3,484,1452,04-09-2023 22:00,Card
+ORD0152,Ravi,Pepperoni,Medium,1,289,289,16-01-2023 12:00,Cash
+ORD0155,Ravi,Margherita,Large,5,484,2420,12-05-2023 16:00,Card
+ORD0166,Ravi,Cheese Burst,Medium,1,325,325,01-03-2023 11:00,Cash
+ORD0176,Ravi,Paneer Tikka,Medium,1,363,363,25-01-2023 11:00,Cash
+ORD0180,Ravi,Pepperoni,Small,4,152,608,09-06-2023 13:00,Cash
+ORD0188,Ravi,Cheese Burst,Small,4,239,956,15-08-2023 21:00,Cash
+ORD0004,Sneha,BBQ Chicken,Medium,2,374,748,16-01-2023 14:00,Cash
+ORD0005,Sneha,Cheese Burst,Medium,2,339,678,23-03-2023 15:00,Cash
+ORD0010,Sneha,Cheese Burst,Medium,1,322,322,16-02-2023 16:00,Cash
+ORD0016,Sneha,Mexican Green Wave,Large,2,482,964,01-07-2023 22:00,UPI
+ORD0052,Sneha,Mexican Green Wave,Small,1,176,176,23-01-2023 15:00,UPI
+ORD0068,Sneha,Margherita,Medium,3,395,1185,11-06-2023 13:00,Card
+ORD0076,Sneha,Margherita,Small,1,217,217,28-04-2023 15:00,Card
+ORD0078,Sneha,Veggie Supreme,Large,3,447,1341,30-06-2023 10:00,Cash
+ORD0098,Sneha,BBQ Chicken,Medium,2,398,796,10-02-2023 22:00,UPI
+ORD0108,Sneha,BBQ Chicken,Medium,5,334,1670,27-02-2023 19:00,Card
+ORD0113,Sneha,BBQ Chicken,Medium,5,286,1430,22-09-2023 10:00,Cash
+ORD0114,Sneha,Cheese Burst,Small,4,247,988,07-07-2023 17:00,Cash
+ORD0132,Sneha,Veggie Supreme,Large,1,427,427,31-07-2023 21:00,Card
+ORD0135,Sneha,Pepperoni,Small,4,220,880,29-05-2023 16:00,UPI
+ORD0144,Sneha,Mexican Green Wave,Large,1,491,491,25-01-2023 14:00,Cash
+ORD0145,Sneha,Veggie Supreme,Medium,3,288,864,11-06-2023 12:00,Cash
+ORD0151,Sneha,Margherita,Large,2,395,790,25-08-2023 18:00,Cash
+ORD0161,Sneha,Veggie Supreme,Small,1,269,269,08-04-2023 12:00,UPI
+ORD0163,Sneha,Veggie Supreme,Large,4,367,1468,20-06-2023 14:00,Card
+ORD0165,Sneha,Margherita,Large,3,415,1245,13-09-2023 20:00,Card
+ORD0171,Sneha,Cheese Burst,Medium,3,381,1143,21-02-2023 16:00,Cash
+ORD0174,Sneha,Margherita,Large,1,493,493,19-05-2023 13:00,Card
+ORD0181,Sneha,Paneer Tikka,Medium,1,281,281,12-07-2023 11:00,UPI
+ORD0185,Sneha,Paneer Tikka,Medium,5,334,1670,02-10-2023 20:00,Card
+ORD0194,Sneha,Paneer Tikka,Small,1,163,163,11-03-2023 15:00,Card
+,,,,,,,,
